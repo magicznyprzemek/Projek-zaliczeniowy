@@ -29,6 +29,7 @@ oznacza większą jasność gwiazdy. Zakładamy, iż minimalna
 dopuszczalna wielkość gwiazdowa wynosi -26.74 (wartość dla
 Słońca). Przyjmujemy, iż maksymalna wartość magnitudo wynosi
 15.00.
+
 **absolutna wielkość gwiazdowa** – wartość magnitudo, jaką ma
 gwiazda z określonej odległości. Istnieje ścisła zależność pomiędzy
 obserwowaną a absolutną wielkością gwiazdową wyrażona wzorem:
@@ -36,13 +37,18 @@ M = m − 5· log10r + 5 (logarytm przy podstawie 10 z r), gdzie m to
 obserwowana wielkość gwiazdowa, a r to odległość od gwiazdy
 wyrażona w parsekach. Przyjmujemy, iż 1 parsek to 3.26 roku
 świetlnego.
+
 **odległość w latach świetlnych.**
+
 **gwiazdozbiór** – gwiazdozbiór, w którym można zobaczyć daną
 gwiazdę.
+
 **półkula PN/ PD** – półkula na której można zobaczyć daną gwiazdę.
+
 **temperatura (podana w stopniach celsjusza).** Przyjmujemy, iż
 minimalna temperatura gwiazdy wynosi 2000 stopni, górna granica
 nie występuje.
+
 **masa** (podana w odniesieniu do masy Słońca). Przyjmujemy, iż
 minimalna masa gwiazdy wynosi 0.1 masy Słońca, natomiast
 maksymalna dopuszczalna masa wynosić będzie 50
@@ -57,15 +63,22 @@ zadbać, o to, aby wszystkie pozostałe nazwy katalogowe zostały
 uaktualnione. Np. po usunięciu gwiazdy alfa Ryb, wszystkie pozostałe
 gwiazdy w gwiazdozbiorze są aktualizowane, tj. beta Ryb na alfa Ryb,
 gamma Ryb na beta Ryb i tak dalej.
+
 **W bazie możliwe jest wyszukiwanie obiektów na podstawie następujących
 kryteriów:**
+
 -wyszukaj wszystkie gwiazdy w gwiazdozbiorze;
+
 -wyszukaj gwiazdy znajdujące się w odległości x parseków od Ziemii
 (należy uwzględnić iż obiekt gwiazdowy opisany jest przy pomocy lat
 świetlnych);
+
 -wyszukaj gwiazdy o temperaturze w zadanym przedziale;
+
 -wyszukaj gwiazdy o wielkości gwiazdowej w zadanym przedziale;
+
 -wyszukaj gwiazdy z półkuli północnej / południowej;
+
 -wyszukaj potencjalne supernowe. Supernowe to gwiazdy, których
 masa przekracza tzw. granicę Chandrasekhara, która wynosi 1.44
 masy Słońca.
