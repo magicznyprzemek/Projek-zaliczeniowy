@@ -1,7 +1,10 @@
 # Projek-zaliczeniowy
+
 **Zbuduj klasę Gwiazda posiadającą następujące pola:**
+
 **nazwa** – dowolne oznaczenie gwiazdy. Przyjmujemy, iż nazwa każdej
 gwiazdy składa się z 3 dużych liter oraz 4 cyfr.
+
 **nazwa katalogowa** – nazwa katalogowa składa się litery alfabetu
 greckiego oraz nazwy gwiazdozbioru. Najjaśniejsza gwiazda w
 gwiazdozbiorze oznaczana jest jako alfa, kolejna jako beta i tak
@@ -11,12 +14,15 @@ do gwiazdozbioru. Przykładowo, jeżeli w bazie istnieją 2 gwiazdy w
 gwiazdozbiorze Wolarza, to trzecia z nich otrzyma katalogową nazwę
 gamma Wolarza (nazwa składa się z litery greckiej oraz nazwy
 gwiazdozbioru, do którego została dodana).
+
 **deklinacja** – jedna ze współrzędnych astronomicznych przyjmująca
 wartości od 0 do 90 stopni dla gwiazd znajdujących się na półkuli
 północnej oraz 0 do -90 stopni dla gwiazd na półkuli południowej.
 Wartość podajemy jako xx stopni yy minut zz.zz sekund.
+
 **rektascensja** – druga współrzędna astronomiczna przyjmująca
 wartości od 00h do 24h. Wartość podajemy jako xx h yy m zz s.
+
 **obserwowana wielkość gwiazdowa** – wielkość stosowana do określenia
 blasku gwiazd wyrażana w jednostkach magnitudo. Niższa wartość
 oznacza większą jasność gwiazdy. Zakładamy, iż minimalna
