@@ -1,4 +1,4 @@
-# Projek-zaliczeniowy
+# Projek-zaliczeniowy SEM3-JAVA
 
 **Zbuduj klasę Gwiazda posiadającą następujące pola:**
 
