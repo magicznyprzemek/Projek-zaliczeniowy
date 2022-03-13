@@ -1,5 +1,6 @@
 # Projek-zaliczeniowy SEM3-JAVA
 
+##Polecenie:
 **Zbuduj klasę Gwiazda posiadającą następujące pola:**
 
 **nazwa** – dowolne oznaczenie gwiazdy. Przyjmujemy, iż nazwa każdej
